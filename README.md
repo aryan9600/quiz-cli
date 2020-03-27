@@ -4,6 +4,8 @@ Quiz-CLI is a command line tool for quizzes. You provide a `fileName.csv` with t
 
 This is my first project in GoLang! :smiley:
 
+This is a part of the [Gophercises](https://courses.calhoun.io/courses/cor_gophercises) by Jon Calhoun.
+
 **Arguments**
 
 * --csv : Name of the csv file
